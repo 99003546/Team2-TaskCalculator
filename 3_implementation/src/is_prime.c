@@ -45,3 +45,5 @@ void is_prime()
 		printf("Not ");
 	printf("Prime\n");
 }
+
+
